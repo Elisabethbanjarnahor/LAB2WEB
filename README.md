@@ -60,5 +60,5 @@ Urutan prioritas jika ada inline, internal, dan eksternal CSS pada elemen yang s
 ![contoh satu](https://github.com/Elisabethbanjarnahor/LAB2WEB/blob/862437da7297b414fdf106e2baef18a1e609afba/satu.jpg)
 ![ke2](https://github.com/Elisabethbanjarnahor/LAB2WEB/blob/cef5893c205d0bbcf602d22e8f2e596319f5b0e6/kedua.jpg)
 ![ke3]()
-
+![ke4](https://github.com/Elisabethbanjarnahor/LAB2WEB/blob/b6d8691c2aa778714eaa8740745eeac90206b735/keempat.jpg)
 
