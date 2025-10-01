@@ -37,3 +37,26 @@ Gaya ini khusus menargetkan teks miring (<i>) di dalam judul h1 (misalnya pada k
 
 **hasil**
 ![hasil](https://github.com/Elisabethbanjarnahor/LAB2WEB/blob/0a92fb86162e8cf4bfe8c2f973618a7b543fde8d/Cuplikan%20layar%202025-10-01%20152941.png)
+
+**Jawaban nomor 2**
+Perbedaan H1 dan Intro H1
+*H1*
+- Ini berlaku ke semua elemen <h1>
+- Jadi apapun teks di dalam <h1> (selama tidak ditimpa aturan lain) akan pakai style ini.
+- Contoh di kamu: font-size 40px, warna teks #0f969f (biru kehijauan), background ungu magenta, border hitam, dst.
+*H1 i*
+- Ini lebih spesifik, maksudnya: hanya untuk teks <i> (italic) yang ada di dalam <h1>.
+- Jadi kalau <h1> ada kata biasa dan ada yang dibungkus <i>, maka bagian <i> tidak ikut warna h1 tadi, tapi ikut aturan baru ini.
+- Contoh di kamu: teks <i> jadi abu-abu #6d6a6b, italic, ada garis kiri oranye, padding khusus.
+
+**jawaban nomor 3**
+
+Urutan prioritas jika ada inline, internal, dan eksternal CSS pada elemen yang sama
+- Inline CSS memiliki prioritas paling tinggi.
+- Internal CSS lebih tinggi daripada eksternal CSS.
+- External CSS digunakan jika tidak ada aturan inline maupun internal.
+
+**Jawaban nomor 4**
+
+
+
