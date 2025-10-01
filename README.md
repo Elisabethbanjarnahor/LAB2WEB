@@ -26,6 +26,7 @@ Dan hasilnya akan seperti di gambar
 
 **perbaikan**
 ![perbaikan](https://github.com/Elisabethbanjarnahor/LAB2WEB/blob/f5b30f8ce76b576f0190f32c0c0557ef961a5b9b/gambarr3.jpg)
+
 **penjelasa**
 
 Gaya untuk h1
