@@ -36,4 +36,4 @@ Gaya untuk h1 i
 Gaya ini khusus menargetkan teks miring (<i>) di dalam judul h1 (misalnya pada kata "Inline CSS"). Teks ini akan memiliki warna merah keunguan (#d81186) dan diberikan latar belakang merah tua yang kontras (#ca0c0c). Terdapat garis vertikal tebal 5px berwarna merah muda di sisi kirinya (border-left) untuk dekorasi. Agar teks tidak terlalu mepet dengan batas, diberikan jarak dalam 10px di semua sisi (padding), dan jarak antar barisnya sedikit dilebarkan (line-height: 1.8).
 
 **hasil**
-![hasil]()
+![hasil](https://github.com/Elisabethbanjarnahor/LAB2WEB/blob/0a92fb86162e8cf4bfe8c2f973618a7b543fde8d/Cuplikan%20layar%202025-10-01%20152941.png)
