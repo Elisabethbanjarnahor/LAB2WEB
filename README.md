@@ -21,4 +21,4 @@ Tingginya baris 1.8 dan latar belakangnya berwarna abu-abu perak (#ca0c0c).
 Terdapat garis batas tebal 5px berwarna merah muda di sisi kiri elemen, dan elemen memiliki jarak dalam (padding) 10px di semua sisi.
 
 **hasil**
-![hasil]()
+![hasil](https://github.com/Elisabethbanjarnahor/LAB2WEB/blob/f98b2f8e0d5caa7a83abb68fea30534edfb826ed/Cuplikan%20layar%202025-10-01%20140928.png)
