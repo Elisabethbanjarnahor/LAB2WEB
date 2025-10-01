@@ -57,6 +57,7 @@ Urutan prioritas jika ada inline, internal, dan eksternal CSS pada elemen yang s
 - External CSS digunakan jika tidak ada aturan inline maupun internal.
 
 **Jawaban nomor 4**
-
+![contoh satu](https://github.com/Elisabethbanjarnahor/LAB2WEB/blob/862437da7297b414fdf106e2baef18a1e609afba/satu.jpg)
+![ke2]()
 
 
