@@ -25,4 +25,4 @@ Dan hasilnya akan seperti di gambar
 ![hasil](https://github.com/Elisabethbanjarnahor/LAB2WEB/blob/f98b2f8e0d5caa7a83abb68fea30534edfb826ed/Cuplikan%20layar%202025-10-01%20140928.png)
 
 **perbaikan**
-![perbaikan]()
+![perbaikan](https://github.com/Elisabethbanjarnahor/LAB2WEB/blob/f5b30f8ce76b576f0190f32c0c0557ef961a5b9b/gambarr3.jpg)
