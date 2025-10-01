@@ -19,3 +19,6 @@ gaya untuk h1 i (Baris 32–37)
 Teks miring (<i>) di dalam h1 diatur memiliki warna merah keunguan (#481186) dengan gaya huruf miring (italic).
 Tingginya baris 1.8 dan latar belakangnya berwarna abu-abu perak (#ca0c0c).
 Terdapat garis batas tebal 5px berwarna merah muda di sisi kiri elemen, dan elemen memiliki jarak dalam (padding) 10px di semua sisi.
+
+**hasil**
+![hasil]()
