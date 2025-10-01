@@ -26,3 +26,12 @@ Dan hasilnya akan seperti di gambar
 
 **perbaikan**
 ![perbaikan](https://github.com/Elisabethbanjarnahor/LAB2WEB/blob/f5b30f8ce76b576f0190f32c0c0557ef961a5b9b/gambarr3.jpg)
+**penjelasa**
+
+Gaya untuk h1
+Gaya ini membuat judul utama (<h1>) besar (30px) dan berwarna cokelat keemasan (#9f5e0f). Teks di dalamnya akan selalu kapital (uppercase) dan memiliki bayangan tipis (text-shadow) agar terlihat menonjol. Judul ini akan dibingkai oleh garis hitam tipis (border), dengan sudut sedikit melengkung (border-radius: 5px), dan seluruh area latar belakangnya diisi warna kuning terang. Terdapat ruang kosong (margin) di sekelilingnya, 20px atas-bawah dan 10px kiri-kanan, untuk memisahkannya dari elemen lain.
+
+Gaya untuk h1 i
+Gaya ini khusus menargetkan teks miring (<i>) di dalam judul h1 (misalnya pada kata "Inline CSS"). Teks ini akan memiliki warna merah keunguan (#d81186) dan diberikan latar belakang merah tua yang kontras (#ca0c0c). Terdapat garis vertikal tebal 5px berwarna merah muda di sisi kirinya (border-left) untuk dekorasi. Agar teks tidak terlalu mepet dengan batas, diberikan jarak dalam 10px di semua sisi (padding), dan jarak antar barisnya sedikit dilebarkan (line-height: 1.8).
+
+**hasil**
