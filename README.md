@@ -59,6 +59,15 @@ Urutan prioritas jika ada inline, internal, dan eksternal CSS pada elemen yang s
 **Jawaban nomor 4**
 ![contoh satu](https://github.com/Elisabethbanjarnahor/LAB2WEB/blob/862437da7297b414fdf106e2baef18a1e609afba/satu.jpg)
 ![ke2](https://github.com/Elisabethbanjarnahor/LAB2WEB/blob/cef5893c205d0bbcf602d22e8f2e596319f5b0e6/kedua.jpg)
-![ke3]()
+![ke3](https://github.com/Elisabethbanjarnahor/LAB2WEB/blob/646d27f3508bcd7ec0281f31dfabf234c3019c77/ketiga.jpg)
 ![ke4](https://github.com/Elisabethbanjarnahor/LAB2WEB/blob/b6d8691c2aa778714eaa8740745eeac90206b735/keempat.jpg)
+
+**penjelasan**
+Tag selector → paling lemah
+Class selector → lebih kuat dari tag
+ID selector → lebih kuat dari class
+
+Inline CSS (langsung di elemen pakai style="") → paling kuat
+Kalau sebuah elemen HTML punya ID dan Class sekaligus, lalu keduanya memiliki deklarasi CSS untuk properti yang sama, maka yang ditampilkan browser adalah gaya dari ID selector. Alasannya karena dalam aturan CSS specificity, selector ID lebih kuat dibanding selector class. Urutan kekuatan CSS kira-kira: inline style paling tinggi, lalu ID, kemudian class/atribut/pseudo-class, dan terakhir tag HTML biasa.
+
 
